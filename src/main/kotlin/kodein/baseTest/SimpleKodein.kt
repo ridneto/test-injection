@@ -1,4 +1,4 @@
-package kodein
+package kodein.baseTest
 
 import org.kodein.di.*
 

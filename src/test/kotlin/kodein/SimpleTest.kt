@@ -1,5 +1,6 @@
 package kodein
 
+import kodein.baseTest.SimpleKodein
 import kotlin.test.Test
 import kotlin.test.assertEquals
 

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9286e601-b577-4434-a1fc-906756d147d5" name="Changes" comment="" />
+    <list default="true" id="9286e601-b577-4434-a1fc-906756d147d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kodein/SimpleKodein.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kodein/baseTest/SimpleKodein.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/kodein/SimpleTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/kodein/SimpleTest.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Object" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -38,9 +44,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="kodein.repositories" />
+      <recent name="kodein.clients" />
+      <recent name="kodein.baseTest" />
+      <recent name="kodein.repository.impl" />
+      <recent name="kodein.container" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="kodein.clients.impl" />
+      <recent name="kodein.repository.implentations" />
+    </key>
+  </component>
   <component name="RunManager" selected="Gradle.SimpleTest.run">
     <configuration name="SimpleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -121,5 +143,16 @@
       <updated>1660518903487</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
